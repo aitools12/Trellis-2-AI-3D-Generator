@@ -1,0 +1,28 @@
+{
+  "name": "aitools12/trellis2_art",
+  "description": "Trellis 2 AI art generator metadata package.",
+  "type": "library",
+  "license": "MIT",
+  "homepage": "https://www.trellis2.art",
+  "keywords": [
+    "trellis2",
+    "trellis-2",
+    "ai",
+    "art",
+    "image",
+    "generator"
+  ],
+  "autoload": {
+    "psr-4": {
+      "Trellis2Art\\": "src/"
+    }
+  },
+  "support": {
+    "source": "https://github.com/aitools12/trellis2_art",
+    "issues": "https://www.trellis2.art",
+    "docs": "https://www.trellis2.art"
+  },
+  "require": {
+    "php": ">=8.0"
+  }
+}
