@@ -56,6 +56,70 @@ Common reasons people look for Trellis 2 include:
 - Moodboarding and reference exploration before design or production
 - Fast image-led iteration for creators, marketers, agencies, and small teams
 
+## Quick answer for searchers
+
+If you searched for Trellis 2, Trellis 2 AI, Trellis 2 3D, Trellis.2, Trellis 2.0, or microsoft trellis 2, the safest next step is to verify the current product directly on the official site:
+
+- Official homepage: https://www.trellis2.art
+- Output examples: https://www.trellis2.art/showcase
+- Pricing and plan research: https://www.trellis2.art/pricing
+- GitHub Pages overview: https://aitools12.github.io/Trellis-2-AI-3D-Generator/
+
+This README is written as a product reference page because many users reach GitHub while trying to confirm whether a tool is real, active, and connected to an official website.
+
+## What to evaluate before using Trellis 2
+
+Trellis 2 should be evaluated by the job you need it to do, not only by a generic AI tool description. A practical review usually starts with these checks:
+
+| Evaluation area | What to look for |
+| --- | --- |
+| Official access | Whether the homepage clearly opens the current Trellis 2 workflow |
+| Output quality | Whether showcase examples match the type of image, art, or 3D-style result you need |
+| Iteration speed | Whether prompt changes help you reach a stronger direction quickly |
+| Commercial fit | Whether the output can support ads, ecommerce, social content, concept boards, or client drafts |
+| Trust signals | Whether pricing, privacy, and support pages are easy to find |
+
+## Trellis 2 AI workflow examples
+
+The phrase Trellis 2 AI usually points to a workflow question. Users want to know how the product can move from idea to visual direction.
+
+Example workflows:
+
+- Campaign concept: write a product launch brief, generate several mood directions, choose the strongest visual tone, then refine the hero image.
+- Ecommerce scene: describe the product, desired setting, lighting style, and angle, then compare output variants for listing or ad use.
+- Concept art: start with a character, environment, or object idea, then iterate until the visual language is clear enough for a production brief.
+- 3D-style ideation: ask for product angles, depth cues, turntable-style framing, or scene structure before committing to manual modeling.
+
+## Trellis 2 3D search intent
+
+Trellis 2 3D does not always mean the searcher expects a full professional 3D modeling pipeline. In many searches, it means the user wants visuals that feel dimensional enough to guide product, scene, or character decisions.
+
+Common Trellis 2 3D intent includes:
+
+- checking whether generated visuals show believable object form
+- exploring product angles before a final shoot or render
+- creating visual references for scenes that need depth and composition
+- comparing AI-generated concept directions before starting manual production
+- finding showcase examples that prove the tool can support dimensional visual thinking
+
+## Prompt and brief patterns
+
+These are example brief patterns users can adapt on the official site:
+
+- Product hero image: "Create a premium product concept with a clean studio background, visible depth, realistic shadows, and a strong front-three-quarter angle."
+- Campaign visual: "Generate a cinematic launch image for a new creative tool, with clear subject focus, modern lighting, and enough negative space for headline copy."
+- Character concept: "Design a stylized character concept with readable silhouette, expressive pose, and a background that supports the story without hiding the subject."
+- Scene exploration: "Create an environment concept with layered foreground, midground, and background depth, suitable for visual development reference."
+
+## Related Trellis 2 pages
+
+The Trellis 2 ecosystem pages are intentionally split by search intent so they do not duplicate each other:
+
+- Main Trellis 2 overview: https://aitools12.github.io/Trellis-2-AI-3D-Generator/
+- Trellis 2 AI workflow page: https://trellis2-art.vercel.app/
+- Trellis 2 3D use-case page: https://trellis2-art-pages.netlify.app/
+- Trellis 2 query-variant page: https://trellis2-art.pages.dev/
+
 ## Who Trellis 2 is for
 
 Trellis 2 can fit several different audiences:
